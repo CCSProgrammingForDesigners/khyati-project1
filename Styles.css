@@ -1,0 +1,15 @@
+h1{color: white;}
+p{width: 1000px; word-wrap: break-word;}
+body{background: pink;}
+h4{color: white;}
+h5{color: white; background-color:#D781C6; padding: 30px}
+img{width: 300px;}
+.white{color: white;}
+a{color: #990099;}
+#cake{width: 1080px;}
+p{line-height: 40px;}
+#cupcake{width: 200px;}
+ul{list-style-type: none; text-align: center;}
+li1::before{content: "\2022"}
+ol{background: #D781C6; padding-left: 50px;}
+ol li {background:#D781C6; padding: 30px; margin-left: 50px;}
